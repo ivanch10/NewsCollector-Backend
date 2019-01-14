@@ -1,2 +1,2 @@
 # NewsCollector-Backend
-## Testing
+## A news collector backend written in Pyhton with Flask and MongoDB database
