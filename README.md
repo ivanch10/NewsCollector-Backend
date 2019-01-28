@@ -1,4 +1,4 @@
-# NewsCollector-Backend
+# News Collector Website Backend
 ## Background and Introduction
 Living in this fast-paced era, people from all walks of lives all have
 the demand of reading news every day. Since modern people’s
